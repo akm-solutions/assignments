@@ -2,7 +2,7 @@
 
 ## assignment 1: Networking
 
-Given our company has 3 offices in cities A, B and C each having the need of approximately 1000, 2000 and 500 IP addresses respectively, define CIDR blocks for the 3 subnets. Any instance in any office should be able to connect to any instance in the same or other office(s). Configuring of the backbone network between the offices is not be worried about. A diagram representing the network would be good to have.
+Given our company has 3 offices in cities A, B and C each having the need of approximately 1000, 500 and 2000 IP addresses respectively, define CIDR blocks for the 3 subnets. Any instance in any office should be able to connect to any instance in the same or other office(s). Configuring of the backbone network between the offices is not be worried about. A diagram representing the network would be good to have.
 
 ## assignment 2: API Development
 
